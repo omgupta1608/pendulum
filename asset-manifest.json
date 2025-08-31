@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pendulum/static/css/main.596ed5cf.css",
+    "main.js": "/pendulum/static/js/main.52f892ee.js",
+    "index.html": "/pendulum/index.html",
+    "main.596ed5cf.css.map": "/pendulum/static/css/main.596ed5cf.css.map",
+    "main.52f892ee.js.map": "/pendulum/static/js/main.52f892ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.596ed5cf.css",
+    "static/js/main.52f892ee.js"
+  ]
+}
